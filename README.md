@@ -5,3 +5,4 @@ Multiple fracture propagation
 此文档每日更新5篇文献
 文献来源于onepetro.org
 文献可自由下载
+增添了爱思唯尔的文献（JPSE/JNGSE/等石油矿业)
